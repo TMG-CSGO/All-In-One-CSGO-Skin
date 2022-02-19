@@ -1,0 +1,25 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0"
+		}
+	}
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/skins/csgo_agentschooser.smx"
+		"Plugin"	"Path_SM/plugins/skins/csgo_voiceagents_enabler.smx"
+		"Plugin"	"Path_SM/plugins/skins/eitems.smx"
+		"Plugin"	"Path_SM/plugins/skins/estickers.smx"
+		"Plugin"	"Path_SM/plugins/skins/gloves.smx"
+        "Plugin"	"Path_SM/plugins/skins/MiscChanger.smx"
+		"Plugin"	"Path_SM/plugins/skins/updater_skins.smx"
+		"Plugin"	"Path_SM/plugins/skins/weapons.smx"
+ 	
+     	"Plugin"	"Path_SM/data/items_en.json"       
+        "Plugin"	"Path_SM/configs/gloves/gloves_english.cfg" 
+        "Plugin"	"Path_SM/configs/weapons/weapons_english.cfg" 
+	}
+}
