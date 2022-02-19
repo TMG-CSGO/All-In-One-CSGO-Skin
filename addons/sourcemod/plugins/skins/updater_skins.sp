@@ -1,5 +1,5 @@
 #include <updater>
-#define UPDATE_URL "https://raw.githubusercontent.com/alix1383/skins/main/addons/sourcemod/updatefile-skins.txt"
+#define UPDATE_URL "https://raw.githubusercontent.com/alix1383/All-In-One-CSGO-Skin/main/addons/sourcemod/updatefile-skins.txt"
 public Plugin myinfo = 
 {
 	name = "auto updater",
